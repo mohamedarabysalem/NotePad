@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">About</string>
+    <string name="title">Title : </string>
+    <string name="menu_delete">Delete Item</string>
+    <string name="no_title">No Title</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="delete_menu_noteedit">Delete</string>
+    <string name="spinner_title">Select Category</string>
+</resources>
