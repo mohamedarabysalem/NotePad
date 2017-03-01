@@ -1,7 +1,11 @@
-# **NotePad Android Project** 
-in the first activity database will be printed and there is a button used to create new note and you will chose the way (record or write)
-* record you should choose the language first then press in the record image
-* write  you will write your note as you like 
-  * if you want to share data press in the button shara 
-  * if you want to save data press in the button  save 
-* you can delete any note by press on it long then delete it  
+
+App allows you to note and save any task or idea that comes to your mind immediately and allows you to voice record your note, if you are not able to type it.
+Planned the use of technologies such as Databases, voice recorders, and Content Providers to accomplish certain aspects of the project.
+
+steps to run the app
+-download android studio and install it
+https://developer.android.com/studio/index.html
+-download jdk and install it
+http://filehippo.com/download_java_development_kit/
+then open notepad project
+
