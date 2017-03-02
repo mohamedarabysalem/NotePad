@@ -9,3 +9,5 @@ https://developer.android.com/studio/index.html
 http://filehippo.com/download_java_development_kit/
 then open notepad project
 
+file->open 
+then run the project using android phone or use genymotion programe
