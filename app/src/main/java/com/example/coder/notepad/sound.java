@@ -135,9 +135,7 @@ public class sound extends ActionBarActivity implements AdapterView.OnItemSelect
             }
 
         });
-
     }
-
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -156,8 +154,6 @@ public class sound extends ActionBarActivity implements AdapterView.OnItemSelect
 
         }
     }
-
-
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id)
     {
